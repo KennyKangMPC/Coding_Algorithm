@@ -2,7 +2,7 @@
 I collected several useful algorithms and tips in this repo for me to use in contests. All of them are implemented in C++.
 Many of them are adapted from [CP Algorithms](https://cp-algorithms.com/index.html) and various [Codeforces](https://codeforces.com/) posts. 
 
-This repository is mainly for personal use. I do not guarantee that all the codes are correct.
+This repository is mainly for personal use.
 
 ## Full List of Algorithms
 
