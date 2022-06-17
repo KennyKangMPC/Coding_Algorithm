@@ -1,5 +1,5 @@
 # Algorithms
-I collected several useful algorithms and tips in this repo for me to use in contests. All of them are implemented in C++.
+I wrote and collected several useful algorithms and tips in this repo for me to use in contests. All of them are implemented in C++.
 Many of them are adapted from [CP Algorithms](https://cp-algorithms.com/index.html) and various [Codeforces](https://codeforces.com/) posts. 
 
 This repository is mainly for personal use.
